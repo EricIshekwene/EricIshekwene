@@ -1,8 +1,3 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
 
 <h1 align="center">How you doing today?</h1>
 
